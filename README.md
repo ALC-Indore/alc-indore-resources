@@ -1,2 +1,2 @@
-# email-templates
-The repository will be used to store email templates used by ALC Indore
+# ALC Indore Resource
+The repository will be used to store various resources like email templates etc used by ALC Indore
